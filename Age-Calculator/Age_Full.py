@@ -1,4 +1,6 @@
-age =input("Please Write Your Age:").strip()
+age =input("Please Write Your Age:\t").strip()
+
+print("Write only the first two letters".center(50,"-"))
 
 unite =input("Please Write Your Age With months,weeks,days,hours,minutes,seconds:")
 
