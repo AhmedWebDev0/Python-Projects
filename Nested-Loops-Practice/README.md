@@ -1,4 +1,3 @@
-إذا كنت ستضع هذا الوصف في مستودع GitHub، فهذا وصف احترافي ومناسب:
 
 ````md id="i3ttw9"
 # 🔁 Nested Loops Practice
