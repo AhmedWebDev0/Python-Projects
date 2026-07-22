@@ -1,0 +1,5 @@
+import pyfiglet
+import termcolor
+# print(dir(termcolor))
+
+print(termcolor.colored(pyfiglet.figlet_format(input("Please Your Name :\t")) , color =(input("What is your favorite color?\t"))))
